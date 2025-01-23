@@ -1,0 +1,20 @@
+.common {
+    background-color: rgb(243, 175, 186);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.first {
+    font-size: 38px;
+}
+
+#one {
+    color:rgb(61, 61, 236);
+    font-weight: bold;
+    font-size: 35px;
+}
+
+#two {
+    background-color: rgb(116, 247, 116);
+    font-weight: bold;
+    font-size: 25px;
+}
